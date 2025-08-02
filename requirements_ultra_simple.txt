@@ -1,0 +1,6 @@
+streamlit==1.28.1
+groq==0.30.0
+python-dotenv==1.0.0
+pypdf==3.17.1
+python-docx==0.8.11
+requests==2.31.0
