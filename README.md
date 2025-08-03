@@ -73,5 +73,3 @@ Pull requests are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for a quick gu
 MIT License
 
 ---
-
-*Made with ❤️ by the IntelliAsk team*
