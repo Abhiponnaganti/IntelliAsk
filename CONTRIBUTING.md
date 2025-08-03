@@ -202,8 +202,7 @@ Contributors will be:
 ## 📞 Getting Help
 
 - **Questions**: Use GitHub Discussions
-- **Chat**: Join our community Discord (coming soon)
-- **Email**: maintainers@intelliask.com (for sensitive issues)
+- **Email**: balaabhilashponnaganti@gmail.com (for sensitive issues)
 
 ## 📜 Code of Conduct
 
